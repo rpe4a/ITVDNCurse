@@ -41,7 +41,7 @@ namespace CriticalSection
                 //myClass.Method();
             }
 
-            Thread.Sleep(4000);
+            Thread.Sleep(3000);
             
         }
     }
